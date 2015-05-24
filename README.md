@@ -1,0 +1,2 @@
+# spendo
+Track personal spending
